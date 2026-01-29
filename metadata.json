@@ -1,0 +1,7 @@
+{
+  "description": "CommerceFlow AI - An intelligent merchant management suite with AI insights, advanced POS, and predictive inventory.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "name": "App"
+}
